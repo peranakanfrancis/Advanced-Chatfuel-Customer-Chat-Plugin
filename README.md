@@ -1,6 +1,6 @@
 # Advanced-Chatfuel-Customer-Chat-Plugin
 Advanced Chatfuel Customer Chat Plugin 🛠
-https://ademking.github.io/Advanced-Chatfuel-Customer-Chat-Plugin/
+https://peranakanfrancis.github.io/Advanced-Chatfuel-Customer-Chat-Plugin/
 
 ![](https://i.imgur.com/HlgxvWX.png)
 
