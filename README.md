@@ -17,7 +17,7 @@ A: Easy :
 
 1. Go to your chatfuel bot, open "Grow" tab, open "Customer Chat Plugin for Your Website" and get your code
 
-2. Open https://peranakanfrancis.github.io/Advanced-Chatfuel-Customer-Chat-Plugin/
+2. Open https://peranakanfrancis.github.io/chatfuel-chat-plugin/
 
 3. Paste your code and modify the "logged-in", "logged-out" and "Color"
 
